@@ -1,0 +1,34 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets" 
+   xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.jaka.templist" version = "1.0">
+   
+   <name>Temp To-do</name>
+   
+   <description>
+        If you have a habit of noting things on your hand, check out the temp todo app for temporary list creation. The list items will be destroyed after the application close. Perfect for making the grocery list items for shopping instead of noting on your hand or mind.
+   </description>
+   
+   <author href = "#" email = "venkateshj.ceg@gmail.com">
+      Venkatesh J
+   </author>
+   
+   <preference name = "permissions" value = "none"/>
+   
+   <icon src = "res/icon/android/mipmap-ldpi/ic_launcher.png" 
+      gap:platform = "android" gap:qualifier = "ldpi" />
+		
+   <icon src = "res/icon/android/mipmap-mdpi/ic_launcher.png" 
+      gap:platform = "android" gap:qualifier = "mdpi" />
+		
+   <icon src = "res/icon/android/mipmap-hdpi/ic_launcher.png" 
+      gap:platform = "android" gap:qualifier = "hdpi" />
+		
+   <icon src = "res/icon/android/mipmap-xhdpi/ic_launcher.png" 
+      gap:platform = "android" gap:qualifier = "xhdpi" />
+		
+   <icon src = "res/icon/android/mipmap-xxhdpi/ic_launcher.png" 
+      gap:platform = "android" gap:qualifier = "xxhdpi" />
+
+   
+</widget>
